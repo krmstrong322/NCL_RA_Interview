@@ -1,0 +1,360 @@
+Scaffold 0    |------------------------------TATTGATGGTGATTTGACTGTCTCCGGCCTTTCTTTTTGGTACAACCGATTTAGCTTTATGCTCAATGCTACTACTATTAGT------------------------------------------------|
+Staple 0      |-----------------------------AATAACTACCACTAAACTGACAGAGGCCGGAAAGAAAAACCATGTTGGCTAAATCGAAATACGAGTTACGATGATGATAATC-------------------------------------------------|
+
+Staple 1      |----------------------------------------TGTAGGTAAAGATTCAAAAGGGTGACATTATGACCCTGTAATACTTTTGCGGGAGAAGCCTTTA--------------------------------------------------------|
+Scaffold 1    |----------------------------------------ACATCCATTTCTAAGTTTTCCCACTGTAATACTGGGACATTATGAAAACGCCCTCTTCGGAAAT--------------------------------------------------------|
+
+Scaffold 2    |----------------------------------------CATTACTCAGGCATTGCATTTAAAATATATGAGGGTTCTAAAAATTTTTATCCTTGCGTTGAAA--------------------------------------------------------|
+Staple 2      |----------------------------------------GTAATGAGTCCGTAACGTAAATTTTATATACTCCCAAGATTTTTAAAAATAGGAACGCAACTTT--------------------------------------------------------|
+
+Staple 3      |------------------------------AAACGAAGTATCATGTGCGTATCACAGTTTCAATCTACTTCCACACCCTACCTGCCATTTAGTGGAACATATTCTTGACC--------------------------------------------------|
+Scaffold 3    |------------------------------TTTGCTTCATAGTACACGCATAGTGTCAAAGTTAGATGAAGGTGTGGGATGGACGGTAAATCACCTTGTATAAGAACTGG--------------------------------------------------|
+
+Scaffold 4    |------------------------------AGAATTGATGCCACCTTTTCAGCTCGCGCCCCAATCAACTGTTATATGGAATGAAACTTCCAGACAAAGGTACTCTCTAATCCTGACCTGTTGGAGTTTGCTTCCGGTCTGGTTCGCTTTGAA-------|
+Staple 4      |-----------------------------ATCTTAACTACGGTGGAAAAGTCGAGCGCGGGGTTAGTTGACAATATACCTTACTTTGAAGGTCTGTTTCCATGAGAGATTAGGACTGGACAACCTCAAACGAAGGCCAGACCAAGCGAAACT--------|
+
+Staple 5      |----------------------------------------TAACCTGTTTAGCTATATTTTCATTTCCCAATTCTGCGAACGAAACTAAAGTACGGTAATTGCTCCTTTTGATAAGAGGTCATTTTTGCGGATGGC------------------------|
+Scaffold 5    |----------------------------------------ATTGGACAAATCGATATAAAAGTAAAGGGTTAAGACGCTTGCTTTGATTTCATGCCATTAACGAGGAAAACTATTCTCCAGTAAAAACGCCTACCG------------------------|
+
+Scaffold 6    |----------------------------------------TTGACCATTTGCGAAATGTATCTAATGGTCAAACTAAATCTACGCATATTTAAAACATGTTGAGCTACAGCATTATATTCAGCAATTAAGCTCTAA------------------------|
+Staple 6      |----------------------------------------AACTGGTAAACGCTTTACATAGATTACCAGTTTGATTTAGATGCGTATAAATTTTGTACAACTCGATGTCGTAATATAAGTCGTTAATTCGAGATT------------------------|
+
+Staple 7      |------------------------------CTTTAGCGTATCTTCATATAAGAGTGATCGGCTATTGACATTCACGGAAATGACGGGCTCGAACGAACTCGTTTCAATGTCACCGCAATACCAAAAGTGCGAAATTACCGTCAACCTTGTG---------|
+Scaffold 7    |------------------------------GAAATCGCATAGAAGTATATTCTCACTAGCCGATAACTGTAAGTGCCTTTACTGCCCGAGCTTGCTTGAGCAAAGTTACAGTGGCGTTATGGTTTTCACGCTTTAATGGCAGTTGGAACAC---------|
+
+Scaffold 8    |------------------------------GCTCGAATTAAAACGCGATATTTGAAGTCTTTCGATGAATATTTATGACGATTCCGCAGTATTGGACGCTATCCAGTCTAAACATT--------------------------------------------|
+Staple 8      |-----------------------------ACGAGCTTAATTTTGCGCTATAAACTTCAGAAAGCTACTTATAAATACTGCTAAGGCGTCATAACCTGCGATAGGTCAGATTTGTA---------------------------------------------|
+
+Staple 9      |----------------------------------------CATCAAAAAGATTAAGAGGAAGCCTGAATCCCCCTCAAATGCTTTAAACAGTTCAGAAAACGAG--------------------------------------------------------|
+Scaffold 9    |----------------------------------------GTAGTTTTTCTAATTCTCCTTCGGACTTAGGGGGAGTTTACGAAATTTGTCAAGTCTTTTGCTC--------------------------------------------------------|
+
+Scaffold 10   |----------------------------------------CAATCCGCTTTGCTTCTGACTATAATAGTCAGGGTAAAGACCTGATTTTTGATTTATGGTCATT--------------------------------------------------------|
+Staple 10     |----------------------------------------GTTAGGCGAAACGAAGACTGATATTATCAGTCCCATTTCTGGACTAAAAACTAAATACCAGTAA--------------------------------------------------------|
+
+Staple 11     |------------------------------TATATATTATGATCATATATATAGATAAAGGGATCTAGGGCGATGGGAGTGAACTAGAACATGGGCCCGGAAACACATATTCTA----------------------------------------------|
+Scaffold 11   |------------------------------ATATATAATACTAGTATATATATCTATTTCCCTAGATCCCGCTACCCTCACTTGATCTTGTACCCGGGCCTTTGTGTATAAGAT----------------------------------------------|
+
+Scaffold 12   |------------------------------TTACTATTACCCCCTCTGGCAAAACTTCTTTTGCAATCTCAACTGATGAATCTTTCTACCTGTAATAATGTTGTTCCGTTAG------------------------------------------------|
+Staple 12     |-----------------------------AAATGATAATGGGGGAGACCGTTTTGAAGAAAACGTTAGAGTTGACTACTTAGAAAGATGGACATTATTACAACAAGGCAAT-------------------------------------------------|
+
+Staple 13     |----------------------------------------AAACCAAAATAGCGAGAGGCTTTTTAGGAATACCACATTCAACTAATGCAGATACATAACGCCA--------------------------------------------------------|
+Scaffold 13   |----------------------------------------TTTGGTTTTATCGCTCTCCGAAAAATCCTTATGGTGTAAGTTGATTACGTCTATGTATTGCGGT--------------------------------------------------------|
+
+Scaffold 14   |----------------------------------------TTATCGTCGTCTGGTAAACGAGGGTTATGATAGTGTTGCTCTTACTATGCCTCGTAATTCCTTT--------------------------------------------------------|
+Staple 14     |----------------------------------------AATAGCAGCAGACCATTTGCTCCCAATACTATCACAACGAGAATGATACGGAGCATTAAGGAAA--------------------------------------------------------|
+
+Staple 15     |------------------------------CCACTTACGCAGCACTAAAATACCAAAGTTACACTTCTTAGCTAAAAGAATTTTACAGCGACATAGAAGCACAAGCTAAG--------------------------------------------------|
+Scaffold 15   |------------------------------GGTGAATGCGTCGTGATTTTATGGTTTCAATGTGAAGAATCGATTTTCTTAAAATGTCGCTGTATCTTCGTGTTCGATTC--------------------------------------------------|
+
+Scaffold 16   |------------------------------TTCGTTTTATTAACGTAGATTTTTCTTCCCAACGTTCACTGAATGAGCAGCTTTGTTACGTTGATTTGGGTAATGAATATCCGGTT--------------------------------------------|
+Staple 16     |----------------------------AAAAGCAAAATAATTGCATCTAAAAAGAAGGGTTGCAAGTGACTTACTCGTCGAAACAATGCAACTAAACCCATTACTTATAGGCCA---------------------------------------------|
+
+Staple 17     |----------------------------------------ACTGGCTCATTATACCAGTCAGGATAAGGCTTGCCCTGACGAGAAACACCAGAACGAGTAGTAA--------------------------------------------------------|
+Scaffold 17   |----------------------------------------TGACCGAGTAATATGGTCAGTCCTATTCCGAACGGGACTGCTCTTTGTGGTCTTGCTCATCATT--------------------------------------------------------|
+
+Scaffold 18   |----------------------------------------TCTTAAAATCGCATAAGGTAATTCACAATGATTAAAGTTGAAATTAAACCATCTCAAGCCCAAT--------------------------------------------------------|
+Staple 18     |----------------------------------------AGAATTTTAGCGTATTCCATTAAGTGTTACTAATTTCAACTTTAATTTGGTAGAGTTCGGGTTA--------------------------------------------------------|
+
+Staple 19     |------------------------------GAATTCTTCAACGAGACCTAAAAACCCACACTTGATTTTATTAACAATTTAAAGTCTCGGGAGACGTAATCGTTTATTGTCGAC----------------------------------------------|
+Scaffold 19   |------------------------------CTTAAGAAGTTGCTCTGGATTTTTGGGTGTGAACTAAAATAATTGTTAAATTTCAGAGCCCTCTGCATTAGCAAATAACAGCTG----------------------------------------------|
+
+Scaffold 20   |------------------------------CTTGTCAAGATTACTCTTGATGAAGGTCAGCCAGAATTTATCAGGCGATGATACAAATCTCCGTTGTACTTTGTTTCGCGCT------------------------------------------------|
+Staple 20     |-----------------------------AGAACAGTTCTAATGAGAACTACTTCCAGTCGGTCTTAAATAGTCCGCTACTATGTTTAGAGGCAACATGAAACAAAGCGCG-------------------------------------------------|
+
+Staple 21     |----------------------------------------CGGTGTACAGACCAGGCGCATAGGGTGTCGAAATCCGCGACCTGCTCCATGTTACTTAGCCGGA--------------------------------------------------------|
+Scaffold 21   |----------------------------------------GCCACATGTCTGGTCCGCGTATCCCACAGCTTTAGGCGCTGGACGAGGTACAATGAATCGGCCT--------------------------------------------------------|
+
+Scaffold 22   |----------------------------------------TTCATCTGTCCTCTTTCAAAGTTGGTCAGTTCGGTTCCCTTATGATTGACCGTCTGCGCCTCGT--------------------------------------------------------|
+Staple 22     |----------------------------------------AAGTAGACAGGAGAAAGTTTCAACCAGTCAAGCCAAGGGAATACTAACTGGCAGACGCGGAGCA--------------------------------------------------------|
+
+Staple 23     |------------------------------GTGTCTGAGTACAATTTATCTGTTCAATTATAATAAAGCCGCTAGTACGTAGAAGTTATTTCCCATATCGAAATAACAAT--------------------------------------------------|
+Scaffold 23   |------------------------------CACAGACTCATGTTAAATAGACAAGTTAATATTATTTCGGCGATCATGCATCTTCAATAAAGGGTATAGCTTTATTGTTA--------------------------------------------------|
+
+Scaffold 24   |------------------------------TGGTATAATCGCTGGGGGTCAAAGATGAGTGTTTCCCTCGTTCCGATGCTGTCTTTCGCTGCTGAGGGTGACGATCCCGCAAAA----------------------------------------------|
+Staple 24     |-----------------------------AACCATATTAGCGACCCCCAGTTTCTACTCACAAAGGGAGCAAGGCTACGACAGAAAGCGACGACTCCCACTGCTAGGGCGTTTT----------------------------------------------|
+
+Staple 25     |----------------------------------------CGAAAGAGGCAAAAGAATACACTATAGCAACGGCTACAGAGGCTTTGAGGACTAAAGACTTTTT--------------------------------------------------------|
+Scaffold 25   |----------------------------------------GCTTTCTCCGTTTTCTTATGTGATATCGTTGCCGATGTCTCCGAAACTCCTGATTTCTGAAAAA--------------------------------------------------------|
+
+Scaffold 26   |----------------------------------------TTTTAGGTTGGTGCCTTCGTAGTGGCATTACGTATTTTACCCGTTTAATGGAAACTTCCTCATG--------------------------------------------------------|
+Staple 26     |----------------------------------------AAAATCCAACCACGGAAGCATCACCGTAATGCATAAAATGGGCAAATTACCTTTGAAGGAGTAC--------------------------------------------------------|
+
+Staple 27     |------------------------------AAAGGTAGAGCGCGAACATCTAGCTTCAGCCTTCAATCAAATCTCAAATAATGAGGTCAAAAATCTTTTATAGACTAAATGGT-----------------------------------------------|
+Scaffold 27   |------------------------------TTTCCATCTCGCGCTTGTAGATCGAAGTCGGAAGTTAGTTTAGAGTTTATTACTCCAGTTTTTAGAAAATATCTGATTTACCA-----------------------------------------------|
+
+Scaffold 28   |------------------------------GCGGCCTTTAACTCCCTGCAAGCCTCAGCGACCGGCAAGCTGATAAACCGATACAATTAAAGGCTCTTTAGCAAAATCCCATACAGAAAATTCATTTACTAACGTCTGGAAAGACGACAAAAC-------|
+Staple 28     |----------------------------AACGCCGGAAATTGAGGGACGTTCGGAGTCGCTGGCCGTTCGACTATTTGGCTATGTTAATTTCCGAGAAATCGTTTTAGGGTATGTCTTTTAAGTAAATGATTGCAGACCTTTCTGCTGTTTT--------|
+
+Staple 29     |----------------------------------------TCGCCCACGCATAACCGATATATTTTTCGAGGTGAATTTCTTAAAGGCTCCAAAAGCAACTTTCAACAGTTTCAGCGGAGTGAGAATAGAAAGGAA------------------------|
+Scaffold 29   |----------------------------------------AGCGGGTGCGTATTGGCTATATAAAAAGCTCCACTTAAAGAATTTCCGAGGTTTTCGTTGAAAGTTGTCAAAGTCGCCTCACTCTTATCTTTCCTT------------------------|
+
+Scaffold 30   |----------------------------------------TGGTTGTTGTCATTGTCGGCGCAACTATCGGTATCAAGCTGTTTTTTTTGGAGATTTTCAACGTGAAAAAATTATTATTCGCAATTCCTTTAGTTG------------------------|
+Staple 30     |----------------------------------------ACCAACAACAGTAACAGCCGCGTTGATAGCCATAGTTCGACAAAAAAAACCTCTAAAAGTTGCACTTTTTTAATAATAAGCGTTAAGGAAATCAAC------------------------|
+
+Staple 31     |-----------------------------ATTCAGGGATAGCAAGCCCAATAGGAACCCATGTACCGTAACACTGAGTTTCGTCACCAGTACAAACTACAACGCCTGTAGCATTCCACAGACAGCCCTCATAGTTAGCGTAACGATCTAAAA--------|
+Scaffold 31   |------------------------------AAGTCCCTATCGTTCGGGTTATCCTTGGGTACATGGCATTGTGACTCAAAGCAGTGGTCATGTTTGATGTTGCGGACATCGTAAGGTGTCTGTCGGGAGTATCAATCGCATTGCTAGATTT---------|
+
+Scaffold 32   |------------------------------AATGAGGGTGGTGGCTCTGAGGGTGGCGGTTCTGCCTAATCCTTCTCTTGAGGAGTCTCAGCCTCTTAATACTTTCATGTTTCAGA--------------------------------------------|
+Staple 32     |-----------------------------ATTACTCCCACCACCGAGACTCCCACCGCCAAGACGGATTAGGAAGAGAACTCCTCAGAGTCGGAGAATTATGAAAGTACAAAGTC---------------------------------------------|
+
+Staple 33     |----------------------------------------CGCCACCCTCAGAACCGCCACCCTATTAGCGGGGTTTTGCTCAGTACCAGGCGGATAAGTGCCG--------------------------------------------------------|
+Scaffold 33   |----------------------------------------GCGGTGGGAGTCTTGGCGGTGGGATAATCGCCCCAAAACGAGTCATGGTCCGCCTATTCACGGC--------------------------------------------------------|
+
+Scaffold 34   |----------------------------------------GTACTAAACCTCCTGAGTACGGTGATACACCTATTCCGGGCTATACTTATATCAACCCTCTCGA--------------------------------------------------------|
+Staple 34     |----------------------------------------CATGATTTGGAGGACTCATGCCACTATGTGGATAAGGCCCGATATGAATATAGTTGGGAGAGCT--------------------------------------------------------|
+
+Staple 35     |------------------------------AGTCAAAAGTAAATGACGGCGATAATGTTAACAAGAAACATACAGTATGGGCAAAGTGACAGGATATAATATTGCTTAGGTGCC----------------------------------------------|
+Scaffold 35   |------------------------------TCAGTTTTCATTTACTGCCGCTATTACAATTGTTCTTTGTATGTCATACCCGTTTCACTGTCCTATATTATAACGAATCCACGG----------------------------------------------|
+
+Scaffold 36   |------------------------------ATAATAGGTTCCGAAATAGGCAGGGGGCATTAACCTGGCTTTAATGAGGATTTATTTGTTTGTGAATATCAAGGCCAATCG-------------------------------------------------|
+Staple 36     |-----------------------------ATATTATCCAAGGCTTTATCCGTCCCCCGTAATTGGACCGAAATTACTCCTAAATAAACAAACACTTATAGTTCCGGTTAG--------------------------------------------------|
+
+Staple 37     |----------------------------------------TGAGTAACAGTGCCCGTATAAACAAATGGAAAGCGCAGTCTCTGAATTTACCGTTCCAGTAAGC--------------------------------------------------------|
+Scaffold 37   |----------------------------------------ACTCATTGTCACGGGCATATTTGTTTACCTTTCGCGTCAGAGACTTAAATGGCAAGGTCATTCG--------------------------------------------------------|
+
+Scaffold 38   |----------------------------------------AGGCACTGACCCCGTTAAAACTTATTACCAGTACACTCCTGTATCATCAAAAGCCATGTATGAC--------------------------------------------------------|
+Staple 38     |----------------------------------------TCCGTGACTGGGGCAATTTTGAATAATGGTCATGTGAGGACATAGTAGTTTTCGGTACATACTG--------------------------------------------------------|
+
+Staple 39     |------------------------------GCATTTATAGCATCATGACAAGGCACTATAAACCCCTTTATGCTACACGGGGAGAACTATAGATTAATATTTTGAATCG---------------------------------------------------|
+Scaffold 39   |------------------------------CGTAAATATCGTAGTACTGTTCCGTGATATTTGGGGAAATACGATGTGCCCCTCTTGATATCTAATTATAAAACTTAGC---------------------------------------------------|
+
+Scaffold 40   |------------------------------TCTGACCTGCCTCAACCTCCTGTCAATGCTGGCGAAGATGGCAAACGCTAATAAGGGGGCTATGACCGAAAATGCCGATGAAAACG--------------------------------------------|
+Staple 40     |-----------------------------AAGACTGGACGGAGTTGGAGGACAGTTACGACCGCTTCTACCGTTTGCGATTATTCCCCCGATACTGGCTTTTACGGCTACTTTTG---------------------------------------------|
+
+Staple 41     |----------------------------------------CACCAGAACCACCACCAGAGCCGCTTCATAATCAAAATCACCGGAACCAGAGCCACCACCGGAA--------------------------------------------------------|
+Scaffold 41   |----------------------------------------GTGGTCTTGGTGGTGGTCTCGGCGAAGTATTAGTTTTAGTGGCCTTGGTCTCGGTGGTGGCCTT--------------------------------------------------------|
+
+Scaffold 42   |----------------------------------------GCGGCTCTGAGGGTGGTGGCTCTGAGGGTGGCGGTTCTGAGGGTGGCGGCTCTGAGGGAGGCGG--------------------------------------------------------|
+Staple 42     |----------------------------------------CGCCGAGACTCCCACCACCGAGACTCCCACCGCCAAGACTCCCACCGCCGAGACTCCCTCCGCC--------------------------------------------------------|
+
+Staple 43     |------------------------------TCGTAATGAACGTGGCAAATTCCAAGATTAGAGATACACAAAATACCTGCGCAGAGGCTCCTTGTGCGATCAAGGTTATTCTAG----------------------------------------------|
+Scaffold 43   |------------------------------AGCATTACTTGCACCGTTTAAGGTTCTAATCTCTATGTGTTTTATGGACGCGTCTCCGAGGAACACGCTAGTTCCAATAAGATC----------------------------------------------|
+
+Scaffold 44   |------------------------------CGCTACAGTCTGACGCTAAAGGCAAACTTGATTCATAATTCACCTTTAATGAATAATTTCCGTCAATATTTACCTTCCCTC-------------------------------------------------|
+Staple 44     |-----------------------------AGCGATGTCAGACTGCGATTTCCGTTTGAACTAAGTATTAAGTGGAAATTACTTATTAAAGGCAGTTATAAATGGAAGGGA--------------------------------------------------|
+
+Staple 45     |----------------------------------------GCAGCACCGTAATCAGTAGCGACACACCGTCACCGACTTGAGCCATTTGGGAATTAGAGCCAGC--------------------------------------------------------|
+Scaffold 45   |----------------------------------------CGTCGTGGCATTAGTCATCGCTGTGTGGCAGTGGCTGAACTCGGTAAACCCTTAATCTCGGTCG--------------------------------------------------------|
+
+Scaffold 46   |----------------------------------------TATCGATGGTTTCATTGGTGACGTTTCCGGCCTTGCTAATGGTAATGGTGCTACTGGTGATTTT--------------------------------------------------------|
+Staple 46     |----------------------------------------ATAGCTACCAAAGTAACCACTGCAAAGGCCGGAACGATTACCATTACCACGATGACCACTAAAA--------------------------------------------------------|
+
+Staple 47     |------------------------------ACGCTGAAAAGCTATATTATACCCTAAATCCTTCTAACTGCGTCACTATCAGCAAAAATGGTTCTCTTGAGGATCCGAT---------------------------------------------------|
+Scaffold 47   |------------------------------TGCGACTTTTCGATATAATATGGGATTTAGGAAGATTGACGCAGTGATAGTCGTTTTTACCAAGAGAACTCCTAGGCTA---------------------------------------------------|
+
+Scaffold 48   |------------------------------CCTCAATCGGTTGAATGTCGCCCTTTTGTCTTTGAATAAGGAGTCTTAATCATGCCAGTTCTTTTGGGTATTCCGTTATTA-------------------------------------------------|
+Staple 48     |-----------------------------AGGAGTTAGCCAACTTACAGCGGGAAAACAGAAACTTATTCCTCAGAATTAGTACGGTCAAGAAAACCCATAAGGCAATAA--------------------------------------------------|
+
+Staple 49     |----------------------------------------AAAATTCATATGGTTTACCAGCGCACGCAGTATGTTAGCAAACGTAGAAAATACATACATAAAG--------------------------------------------------------|
+Scaffold 49   |----------------------------------------TTTTAAGTATACCAAATGGTCGCGTGCGTCATACAATCGTTTGCATCTTTTATGTATGTATTTC--------------------------------------------------------|
+
+Scaffold 50   |----------------------------------------CTATTGATTGTGACAAAATAAACTTATTCCGTGGTGTCTTTGCGTTTCTTTTATATGTTGCCAC--------------------------------------------------------|
+Staple 50     |----------------------------------------GATAACTAACACTGTTTTATTTGAATAAGGCACCACAGAAACGCAAAGAAAATATACAACGGTG--------------------------------------------------------|
+
+Staple 51     |------------------------------CTGACTACTAAAGTATTCTGCTTTGTAATTTATTAGGCCCTCCACTCTTAGATTATACGCTAAACGCACAAATCGCAAA---------------------------------------------------|
+Scaffold 51   |------------------------------GACTGATGATTTCATAAGACGAAACATTAAATAATCCGGGAGGTGAGAATCTAATATGCGATTTGCGTGTTTAGCGTTT---------------------------------------------------|
+
+Scaffold 52   |------------------------------TTGCGTTTCCTCGGTTTCCTTCTGGTAACTTTGTTTACCCTCTGACTTTGTTCAGGGTGTTCAGTTAATTCTCCCGTCTAA-------------------------------------------------|
+Staple 52     |-----------------------------AAACGCAAAGGAGCCAAAGGAAGACCATTGAAACAAATGGGAGACTGAAACAAGTCCCACAAGTCAATTAAGAGGGCAGAT--------------------------------------------------|
+
+Staple 53     |----------------------------------------TAAGAAAAGTAAGCAGATAGCCGATTGAGCGCTAATATCAGAGAGATAACCCACAAGAATTGAG--------------------------------------------------------|
+Scaffold 53   |----------------------------------------ATTCTTTTCATTCGTCTATCGGCTAACTCGCGATTATAGTCTCTCTATTGGGTGTTCTTAACTC--------------------------------------------------------|
+
+Scaffold 54   |----------------------------------------AAAAGGGCTTCGGTAAGATAGCTATTGCTATTTCATTGTTTCTTGCTCTTATTATTGGGCTTAA--------------------------------------------------------|
+Staple 54     |----------------------------------------TTTTCCCGAAGCCATTCTATCGATAACGATAAAGTAACAAAGAACGAGAATAATAACCCGAATT--------------------------------------------------------|
+
+Staple 55     |------------------------------CGACACTATACGTTTGGCCTAAAGAAATCTTTGCTCGTGATAGTAGCAGATTTTCAATACAATACACGAGTAATATAGC---------------------------------------------------|
+Scaffold 55   |------------------------------GCTGTGATATGCAAACCGGATTTCTTTAGAAACGAGCACTATCATCGTCTAAAAGTTATGTTATGTGCTCATTATATCG---------------------------------------------------|
+
+Scaffold 56   |------------------------------TGCGCTTCCCTGTTTTTATGTTATTCTCTCTGTAAGATTCAGGATAAAATTGTAGCTGGGTGCAAAATAGCAACTAATCTTGATTT--------------------------------------------|
+Staple 56     |-----------------------------AACGCGAAGGGACAAAAATACAATAAGAGAGACATTCTAAGTCCTATTTTAACATCGACCCACGTTTTATCGTTGATTAGAACTAA---------------------------------------------|
+
+Staple 57     |----------------------------------------GTCAAAAATGAAAATAGCAGCCTTTACCAACGCTAACGAGCGTCTTTCCAGAGCCTAATTTGCC--------------------------------------------------------|
+Scaffold 57   |----------------------------------------CAGTTTTTACTTTTATCGTCGGAAATGGTTGCGATTGCTCGCAGAAAGGTCTCGGATTAAACGG--------------------------------------------------------|
+
+Scaffold 58   |----------------------------------------GTTAAACAAAAAATCGTTTCTTATTTGGATTGGGATAAATAATATGGCTGTTTATTTTGTAACT--------------------------------------------------------|
+Staple 58     |----------------------------------------CAATTTGTTTTTTAGCAAAGAATAAACCTAACCCTATTTATTATACCGACAAATAAAACATTGA--------------------------------------------------------|
+
+Staple 59     |------------------------------CTTCCGGGATTTTATTCAGTTTTTAGTAATAGCAAATAGGGAGAGATAGAAGAAAGAACCATTCATTACAGTCTCTCAGAATTT----------------------------------------------|
+Scaffold 59   |------------------------------GAAGGCCCTAAAATAAGTCAAAAATCATTATCGTTTATCCCTCTCTATCTTCTTTCTTGGTAAGTAATGTCAGAGAGTCTTAAA----------------------------------------------|
+
+Scaffold 60   |------------------------------AAGGCTTCAAAACCTCCCGCAAGTCGGGAGGTTCTGAAAATAAAAACGGCTTGCTTGTTCTCGATGTGTTCAGGACTTATCTATTGTTGATAAACAGGCGCGTTCTGCATTAGCTGAACATGT-------|
+Staple 60     |-----------------------------ATTCCGAAGTTTTGGAGGGCGTTCAGCCCTCCAAGACTTTTATTTTTGCCGAACGAACAAGAGCTACACAAGTCCTGAATAGATAACAACTATTTGTCCGCGCAAGACGTAATCGACTTGTAC--------|
+
+Staple 61     |----------------------------------------TCTAAGAACGCGAGGCGTTTTAGCTCGTAGGAATCATTACCGCCAAGTACCGCACTAGAAAAATAATATCCCATCCTAATTTACGAGCATGTAGAA------------------------|
+Scaffold 61   |----------------------------------------AGATTCTTGCGCTCCGCAAAATCGAGCATCCTTAGTAATGGCGGTTCATGGCGTGATCTTTTTATTATAGGGTAGGATTAAATGCTCGTACATCTT------------------------|
+
+Scaffold 62   |----------------------------------------ATACCGGATAAGCCTTCTATATCTGATTTGCTTGCTATTGGGCGTTTAATACCCGTTCTTGGAATGATAAGGAAAGACAGCCGATTATTGATTGGT------------------------|
+Staple 62     |----------------------------------------TATGGCCTATTCGGAAGATATAGACTAAACGAACGATAACCCGCAAATTATGGGCAAGAACCTTACTATTCCTTTCTGTCGGCTAATAACTAACCA------------------------|
+
+Staple 63     |------------------------------ATCAATTTGCCTTATATATACGCTCCAGTCCTTGCGTAGTGAGGACCTAAGGTGAGGTAGGTCGTACGTTTTTGGATGAAATCTATCAAGGGATAGTTACTGTTACTTATAATGTGTTAAA---------|
+Scaffold 63   |------------------------------TAGTTAAACGGAATATATATGCGAGGTCAGGAACGCATCACTCCTGGATTCCACTCCATCCAGCATGCAAAAACCTACTTTAGATAGTTCCCTATCAATGACAATGAATATTACACAATTT---------|
+
+Scaffold 64   |------------------------------TGTTTATTGTCGTCGTCTGGACAGAATTACTTTATAAGAATTTGTATAACGCATATGATACTAAACAGGCTTTTTCTAGTAATTAT--------------------------------------------|
+Staple 64     |-----------------------------AACAAATAACAGCAGCAGACCTGTCTTAATGAAATATTCTTAAACATATTGCGTATACTATGATTTGTCCGAAAAAGATCATTAAT---------------------------------------------|
+
+Staple 65     |----------------------------------------AGAATATAAAGTACCGACAAAAGGCCAGTATAAAGCCAACGCTCAACAGTAGGGCTTAATTGAG--------------------------------------------------------|
+Scaffold 65   |----------------------------------------TCTTATATTTCATGGCTGTTTTCCGGTCATATTTCGGTTGCGAGTTGTCATCCCGAATTAACTC--------------------------------------------------------|
+
+Scaffold 66   |----------------------------------------CTTATTACTGGCTCGAAAATGCCTCTGCCTAAATTACATGTTGGCGTTGTTAAATATGGCGATT--------------------------------------------------------|
+Staple 66     |----------------------------------------GAATAATGACCGAGCTTTTACGGAGACGGATTTAATGTACAACCGCAACAATTTATACCGCTAA--------------------------------------------------------|
+
+Staple 67     |------------------------------ATTGACGTCCTGTGGTATGACCAAGTTAGAATGGTGTATATGTAACAGGGTAGACCGCGTGTGCTAATCCTCATAATTCTTACT----------------------------------------------|
+Scaffold 67   |------------------------------TAACTGCAGGACACCATACTGGTTCAATCTTACCACATATACATTGTCCCATCTGGCGCACACGATTAGGAGTATTAAGAATGA----------------------------------------------|
+
+Scaffold 68   |------------------------------GATTCCGGTGTTTATTCTTATTTAACGCCTTATTTATATAACCCAACCTAAGCCGGAGGTTAAAAAGGTAGTCTCTCAGAC-------------------------------------------------|
+Staple 68     |-----------------------------ACTAAGGCCACAAATAAGAATAAATTGCGGAATAAATATATTGGGTTGGATTCGGCCTCCAATTTTTCCATCAGAGAGTCT--------------------------------------------------|
+
+Staple 69     |----------------------------------------GTTTGAAATACCGACCGTGTGATAACTATATGTAAATGCTGATGCAAATCCAATCGCAAGACAA--------------------------------------------------------|
+Scaffold 69   |----------------------------------------CAAACTTTATGGCTGGCACACTATTGATATACATTTACGACTACGTTTAGGTTAGCGTTCTGTT--------------------------------------------------------|
+
+Scaffold 70   |----------------------------------------CATTAAATTTAGGTCAGAAGATGAAATTAACTAAAATATATTTGAAAAAGTTTTCTCGCGTTCT--------------------------------------------------------|
+Staple 70     |----------------------------------------GTAATTTAAATCCAGTCTTCTACTTTAATTGATTTTATATAAACTTTTTCAAAAGAGCGCAAGA--------------------------------------------------------|
+
+Staple 71     |------------------------------AAGTGAGATTTGAATAGTATAGTAGACTTCTGTTGGGAATGGAGACATCTTTTTCGCAAAACCGGATCCCCTCTTTTGT---------------------------------------------------|
+Scaffold 71   |------------------------------TTCACTCTAAACTTATCATATCATCTGAAGACAACCCTTACCTCTGTAGAAAAAGCGTTTTGGCCTAGGGGAGAAAACA---------------------------------------------------|
+
+Scaffold 72   |------------------------------CTATGATTTTGATAAATTCACTATTGACTCTTCTAGGTAATTCAAATGAAATTGTTAAATGTAATTAATTTTGTTTTCTTGATGTT--------------------------------------------|
+Staple 72     |-----------------------------AGATACTAAAACTATTTAAGTGATAACTGAGAAGATCCATTAAGTTTACTTTAACAATTTACATTAATTAAAACAAAAGAACTACA---------------------------------------------|
+
+Staple 73     |----------------------------------------GCGATAGCTTAGATTAAGACGCTGTTTTTAATGGAAACAGTACATAAATCAATATATGTGAGTG--------------------------------------------------------|
+Scaffold 73   |----------------------------------------CGCTATCGAATCTAATTCTGCGACAAAAATTACCTTTGTCATGTATTTAGTTATATACACTCAC--------------------------------------------------------|
+
+Scaffold 74   |----------------------------------------TATGTTTTCAAGGATTCTAAGGGAAAATTAATTAATAGCGACGATTTACAGAAGCAAGGTTATT--------------------------------------------------------|
+Staple 74     |----------------------------------------ATACAAAAGTTCCTAAGATTCCCTTTTAATTAATTATCGCTGCTAAATGTCTTCGTTCCAATAA--------------------------------------------------------|
+
+Staple 75     |------------------------------AAACGAATCGGATGATTGGTCTGCAGGGAAGTAATGAAAAGCCATCTTGTGGCGATTTTAATAATTCAAAGTGGATATAACAAC----------------------------------------------|
+Scaffold 75   |------------------------------TTTGCTTAGCCTACTAACCAGACGTCCCTTCATTACTTTTCGGTAGAACACCGCTAAAATTATTAAGTTTCACCTATATTGTTG----------------------------------------------|
+
+Scaffold 76   |------------------------------TGTTTCATCATCTTCTTTTGCTCAGGTAATTGAAACGCAATTTCTTTATTTCTGTTTTACGTGCAAATAATTTTGATATGG-------------------------------------------------|
+Staple 76     |-----------------------------AACAAAGTAGTAGAAGAAAACGAGTCCATTAACTTTGCGTTAAAGAAATAAAGACAAAATGCACGTTTATTAAAACTATAC--------------------------------------------------|
+
+Staple 77     |----------------------------------------ATCGCGCAGAGGCGAATTATTCATAGATTTTCAGGTTTAACGTCAGATGAATATACAGTAACAG--------------------------------------------------------|
+Scaffold 77   |----------------------------------------TAGCGCGTCTCCGCTTAATAAGTATCTAAAAGTCCAAATTGCAGTCTACTTATATGTCATTGTC--------------------------------------------------------|
+
+Scaffold 78   |----------------------------------------TTTGTAACTTGGTATTCAAAGCAATCAGGCGAATCCGTTATTGTTTCTCCCGATGTAAAAGGTA--------------------------------------------------------|
+Staple 78     |----------------------------------------AAACATTGAACCATAAGTTTCGTTAGTCCGCTTAGGCAATAACAAAGAGGGCTACATTTTCCAT--------------------------------------------------------|
+
+Staple 79     |------------------------------AAAGATTCACTAAGATTTCTGTTGACTAGGTTTCATAAAGTGATCGTGGAGTCGACTCACTACGCATCATCGTTAATGC---------------------------------------------------|
+Scaffold 79   |------------------------------TTTCTAAGTGATTCTAAAGACAACTGATCCAAAGTATTTCACTAGCACCTCAGCTGAGTGATGCGTAGTAGCAATTACG---------------------------------------------------|
+
+Scaffold 80   |------------------------------TAGGTTCTAACCCTTCCATTATTCAGAAGTATAATTGTTCCGCAAAATGATAATGTTACTCAAACTATCTATTAGTTGTTAGTGCTCCTAAAGATATTTTAGATAACCTTCCTCAATTCCTTT-------|
+Staple 80     |----------------------------AAATCCAAGATTGGGAAGGTAATAAGTCTTCATATTAACAAGGCGTTTTACTATTACAATGAGTTTGATAGATAATCAACAATCACGAGGATTTCTATAAAATCTATTGGAAGGAGTTAAGGAA--------|
+
+Staple 81     |----------------------------------------TCAATATAATCCTGATTGTTTGGAAGAAACCACCAGAAGGAGCTATTAATTTTAAATAGAGCCGTCAATAGATAATACATTTGAGGATTTAGAAGT------------------------|
+Scaffold 81   |----------------------------------------AGTTATATTAGGACTAACAAACCTTCTTTGGTGGTCTTCCTCGATAATTAAAATTTATCTCGGCAGTTATCTATTATGTAAACTCCTAAATCTTCA------------------------|
+
+Scaffold 82   |----------------------------------------TGAATTGCCATCATCTGATAATCAGGAATATGATGATAATTCCACGTTCGGGCAAAGGATTTAATACGAGTTGTCGAATTGTTTGTAAAGTCTAAT------------------------|
+Staple 82     |----------------------------------------ACTTAACGGTAGTAGACTATTAGTCCTTATACTACTATTAAGGTGCAAGCCCGTTTCCTAAATTATGCTCAACAGCTTAACAAACATTTCAGATTA------------------------|
+
+Staple 83     |-----------------------------ACCGCCTGCAACAGTGCCACGCTGAGAGCCAGCAGCAAATGAAAAATCTAAAGCATCACCTTGCTGAACCTCAAATATCAAACCCTCAATCAATATCTGGTCAGTTGGCAAATCAACAGTTGA--------|
+Scaffold 83   |------------------------------GGCGGACGTTGTCACGGTGCGACTCTCGGTCGTCGTTTACTTTTTAGATTTCGTAGTGGAACGACTTGGAGTTTATAGTTTGGGAGTTAGTTATAGACCAGTCAACCGTTTAGTTGTCAAC---------|
+
+Scaffold 84   |------------------------------TGTTAATACTGACCGCCTCACCTCTGTTTTATCTTTCTATCTCTGTTGGCCAGAATGTCCCTTTTATTACTGGTCGTGTGA-------------------------------------------------|
+Staple 84     |-----------------------------AACAATTATGACTGGCGGAGTGGAGACAAAATAGAAAGATAGAGACAACCGGTCTTACAGGGAAAATAATGACCAGCACAC--------------------------------------------------|
+
+Staple 85     |----------------------------------------AATACCGAACGAACCACCAGCAGACCCTTCTGACCTGAAAGCGTAAGAATACGTGGCACAGACA--------------------------------------------------------|
+Scaffold 85   |----------------------------------------TTATGGCTTGCTTGGTGGTCGTCTGGGAAGACTGGACTTTCGCATTCTTATGCACCGTGTCTGT--------------------------------------------------------|
+
+Scaffold 86   |----------------------------------------TTTAATGGCGATGTTTTAGGGCTATCAGTTCGCGCATTAAAGACTAATAGCCATTCAAAAATAT--------------------------------------------------------|
+Staple 86     |----------------------------------------AAATTACCGCTACAAAATCCCGATAGTCAAGCGCGTAATTTCTGATTATCGGTAAGTTTTTATA--------------------------------------------------------|
+
+Staple 87     |------------------------------AGTGATCCAAGGGAATATCGCATGTATGTCTAATTCGTATGTGCAGGTCCTCAAAACGTTGATCACCCTTTTCATGTCC---------------------------------------------------|
+Scaffold 87   |------------------------------TCACTAGGTTCCCTTATAGCGTACATACAGATTAAGCATACACGTCCAGGAGTTTTGCAACTAGTGGGAAAAGTACAGG---------------------------------------------------|
+
+Scaffold 88   |------------------------------CTGGTGAATCTGCCAATGTAAATAATCCATTTCATTATTACTAATCAAAGAAGTATTGCTACAACGGTTAATTTGCGTGAT-------------------------------------------------|
+Staple 88     |-----------------------------AGACCACTTAGACGGTTACATTTATTAGGTAAAGTAATAATGATTAGTTTCTTCATAACGATGTTGCCAATTAAACGCACT--------------------------------------------------|
+
+Staple 89     |----------------------------------------CCTACATTTTGACGCTCAATCGTCCATCACTTGCCTGAGTAGAAGAACTCAAACTATCGGCCTT--------------------------------------------------------|
+Scaffold 89   |----------------------------------------GGATGTAAAACTGCGAGTTAGCAGGTAGTGAACGGACTCATCTTCTTGAGTTTGATAGCCGGAA--------------------------------------------------------|
+
+Scaffold 90   |----------------------------------------TATTTCCATGAGCGTTTTTCCTGTTGCAATGGCTGGCGGTAATATTGTTCTGGATATTACCAGC--------------------------------------------------------|
+Staple 90     |----------------------------------------ATAAAGGTACTCGCAAAAAGGACAACGTTACCGACCGCCATTATAACAAGACCTATAATGGTCG--------------------------------------------------------|
+
+Staple 91     |------------------------------TCGATAAATTCAACGTGGCCATAATCATATGCCGCTGGGTTACGTTTCACGCTGCGAAGGTATGTTTGATAAAATCAAG---------------------------------------------------|
+Scaffold 91   |------------------------------AGCTATTTAAGTTGCACCGGTATTAGTATACGGCGACCCAATGCAAAGTGCGACGCTTCCATACAAACTATTTTAGTTC---------------------------------------------------|
+
+Scaffold 92   |------------------------------GGACAGACTCTTTTACTCGGTGGCCTCACTGATTAACGAGGAAAGCACGTTATACGTGCTCGTCAACGCTTTCTTCCCTTCCTTTCTCGCCACGTTCGCCGGCTTTCCCCGTCAAGCT------------|
+Staple 92     |-----------------------------ACCTGTCTGAGAAAATGAGCCACCGGAGTGACTAATTGCTCCTTTCGTGCAATATGCACGAGCAGTTGCGAAAGAAGGGAAGGAAAGAGCGGTGCAAGCGGCCGAAAGGGGCAGTTC--------------|
+
+Staple 93     |----------------------------------------CAGAATCCTGAGAAGTGTTTTTATAGAATCAGAGCGGGAGCTATACTATGGTTGCTAAAGGAGCGGGCGCTAGGGCGCTGGCAAGTGTAGCGGTCA------------------------|
+Scaffold 93   |----------------------------------------GTCTTAGGACTCTTCACAAAAATATCTTAGTCTCGCCCTCGATATGATACCAACGATTTCCTCGCCCGCGATCCCGCGACCGTTCACATCGCCAGT------------------------|
+
+Scaffold 94   |----------------------------------------GCGTACCGTTCCTGTCTAAAATCCCTTTAATCGGCCTCCTGTTCGCGCCCTGTAGCGGCGCATTAAGCGCGGCGGGTGTGGTGGTTACGCGCAGCG------------------------|
+Staple 94     |----------------------------------------CGCATGGCAAGGACAGATTTTAGGGAAATTAGCCGGAGGACAAGCGCGGGACATCGCCGCGTAATTCGCGCCGCCCACACCACCAATGCGCGTCGC------------------------|
+
+Staple 95     |------------------------------CTATACACGACTACGGTCAAGAGTATATAAGTTGCTGAAACGCGTGGGACGTCCTTGAGTGCACTATCATAAGTATCTAGATTTTTTCAGACATCATTCTGTTCATGAGATCTAA---------------|
+Scaffold 95   |------------------------------GATATGTGCTGATGCCAGTTCTCATATATTCAACGACTTTGCGCACCCTGCAGGAACTCACGTGATAGTATTCATAGATCTAAAAAAGTCTGTAGTAAGACAAGTACTCTAGATT---------------|
+
+Scaffold 96   |------------------------------CTAAATCGGGGGCTCCCTTTAGGGTTCCGATTTATTCCAAACTGGAACAACACTCAACCCTATCTCGGGCTATTCTTTTGA-------------------------------------------------|
+Staple 96     |-----------------------------AGATTTAGCCCCCGAGGGAAATCCCAAGGCTAAATAAGGTTTGACCTTGTTGTGAGTTGGGATAGAGCCCGATAAGAAAAC--------------------------------------------------|
+
+Staple 97     |----------------------------------------TGGGGTCGAGGTGCCGTAAAGCACCAAGAGTCCACTATTAAAGAACGTGGACTCCAACGTCAAA--------------------------------------------------------|
+Scaffold 97   |----------------------------------------ACCCCAGCTCCACGGCATTTCGTGGTTCTCAGGTGATAATTTCTTGCACCTGAGGTTGCAGTTT--------------------------------------------------------|
+
+Scaffold 98   |----------------------------------------AAAAACTTGATTTGGGTGATGGTTCACGTAGTGGGCCATCGCCCTGATAGACGGTTTTTCGCCC--------------------------------------------------------|
+Staple 98     |----------------------------------------TTTTTGAACTAAACCCACTACCAAGTGCATCACCCGGTAGCGGGACTATCTGCCAAAAAGCGGG--------------------------------------------------------|
+
+Staple 99     |------------------------------AGGTCTGCAGTGATTTGACACGACATCTAATATTTTCAGTTTAATCTGCGATGGCGCTAACAGTTGCTCCAAATAATAC---------------------------------------------------|
+Scaffold 99   |------------------------------TCCAGACGTCACTAAACTGTGCTGTAGATTATAAAAGTCAAATTAGACGCTACCGCGATTGTCAACGAGGTTTATTATG---------------------------------------------------|
+
+Scaffold 100  |------------------------------TTTATAAGGGATTTTGCCGATTTCGGAACCACCACCCAATACGCAAACCGCCTCTCCCCGCGCGTTGGCCGATTCATTAATGCAGC--------------------------------------------|
+Staple 100    |-----------------------------AAAATATTCCCTAAAACGGCTAAAGCCTTGGTGGTGGGTTATGCGTTTGGCGGAGAGGGGCGCGCAACCGGCTAAGTAATTACGTC---------------------------------------------|
+
+Staple 101    |----------------------------------------CCAGCAGGCGAAAATCCTGTTTGACGCCAGGGTGGTTTTTCTTTTCACCAGTGAGACGGGCAAC--------------------------------------------------------|
+Scaffold 101  |----------------------------------------GGTCGTCCGCTTTTAGGACAAACTGCGGTCCCACCAAAAAGAAAAGTGGTCACTCTGCCCGTTG--------------------------------------------------------|
+
+Scaffold 102  |----------------------------------------GGCAAACCAGCGTGGACCGCTTGCTGCAACTCTCTCAGGGCCAGGCGGTGAAGGGCAATCAGCT--------------------------------------------------------|
+Staple 102    |----------------------------------------CCGTTTGGTCGCACCTGGCGAACGACGTTGAGAGAGTCCCGGTCCGCCACTTCCCGTTAGTCGA--------------------------------------------------------|
+
+Staple 103    |------------------------------AACGTACCCGTTTGCTGACCTAAAAAATCCTGAAAATAAATGGGAATATGCAGAAGCCGAAAGATACGCTGATCAAGTTACGAT----------------------------------------------|
+Scaffold 103  |------------------------------TTGCATGGGCAAACGACTGGATTTTTTAGGACTTTTATTTACCCTTATACGTCTTCGGCTTTCTATGCGACTAGTTCAATGCTA----------------------------------------------|
+
+Scaffold 104  |------------------------------TGGCACGACAGGTTTCCCGACTGGAAAGCGGGCAGACCATGATTACGAATTCGAGCTCGGTACCCGGGGATCCTCTAGAGT-------------------------------------------------|
+Staple 104    |-----------------------------AACCGTGCTGTCCAAAGGGCTGACCTTTCGCCCGTCTGGTACTAATGCTTAAGCTCGAGCCATGGGCCCCTAGGAGATCTC--------------------------------------------------|
+
+Staple 105    |----------------------------------------TCACATTAATTGCGTTGCGCTCACATAGCTGTTTCCTGTGTGAAATTGTTATCCGCTCACAATT--------------------------------------------------------|
+Scaffold 105  |----------------------------------------AGTGTAATTAACGCAACGCGAGTGTATCGACAAAGGACACACTTTAACAATAGGCGAGTGTTAA--------------------------------------------------------|
+
+Scaffold 106  |----------------------------------------GTTAGCTCACTCATTAGGCACCCCAGGCTTTACACTTTATGCTTCCGGCTCGTATGTTGTGTGG--------------------------------------------------------|
+Staple 106    |----------------------------------------CAATCGAGTGAGTAATCCGTGGGGTCCGAAATGTGAAATACGAAGGCCGAGCATACAACACACC--------------------------------------------------------|
+
+Staple 107    |------------------------------TCCATTGGTGAGTCTACCGCAAATATCTCAGTCACGATGAATATTACATTGAATTTGGATGATCCATACTGGATGATAT---------------------------------------------------|
+Scaffold 107  |------------------------------AGGTAACCACTCAGATGGCGTTTATAGAGTCAGTGCTACTTATAATGTAACTTAAACCTACTAGGTATGACCTACTATA---------------------------------------------------|
+
+Scaffold 108  |------------------------------CGACCTGCAGGCATGCAAGCTTGGCACTGGCCGTATAGCGAAGAGGCCCGCACCGATCGCCCTTCCTCGTCGTCCCCTCAAACTGGCAGATGCACGGTTACGATGCGCCCATCTACA-------------|
+Staple 108    |-----------------------------AGCTGGACGTCCGTACGTTCGAACCGTGACCGGCATATCGCTTCTCCGGGCGTGGCTAGCGGGAAGGAGCAGCAGGGGAGTTTGACCGTCTACGTGCCAATGCTACGCGGGTAGATG--------------|
+
+Staple 109    |----------------------------------------TCCCAGTCACGACGTTGTAAAACGTACGCCAGCTGGCGAAAGGTGCGCAACTGTTGCAGTATCGGCCTCAGGAAGATCGCACTCCAGCCAGCTTTC------------------------|
+Scaffold 109  |----------------------------------------AGGGTCAGTGCTGCAACATTTTGCATGCGGTCGACCGCTTTCCACGCGTTGACAACGTCATAGCCGGAGTCCTTCTAGCGTGAGGTCGGTCGAAAG------------------------|
+
+Scaffold 110  |----------------------------------------AAACCCTGGCGTTACCCAACTTAATCGCCTTGCAGCACATCCCGCCTGAATGGCGAATGGCGCTTTGCCTGGTTTCCGGCACCAGAAGCGGTGCCG------------------------|
+Staple 110    |----------------------------------------TTTGGGACCGCAATGGGTTGAATTAGCGGAACGTCGTGTAGGGCGGACTTACCGCTTACCGCGAAACGGACCAAAGGCCGTGGTCTTCGCCACGGC------------------------|
+
+Staple 111    |------------------------------AGATTCTTTCTTACGGCTCAGGAATTGAACCTAGGAGCCTTGGCATACCGAAATCCAAATCAGTTCGCATTCTCCTATCCCGATCTACACATTATATTTCCGGTCTCGGAATGTT---------------|
+Scaffold 111  |------------------------------TCTAAGAAAGAATGCCGAGTCCTTAACTTGGATCCTCGGAACCGTATGGCTTTAGGTTTAGTCAAGCGTAAGAGGATAGGGCTAGATGTGTAATATAAAGGCCAGAGCCTTACAA---------------|
+
+Scaffold 112  |------------------------------CCAACGTGACCTATCCCATTACGGTCAATCCGCCTTAACAAAAATTTAATGCGAATTTTAACAAAATATTAACGTTTACAA-------------------------------------------------|
+Staple 112    |-----------------------------AGGTTGCACTGGATAGGGTAATGCCAGTTAGGCGGAATTGTTTTTAAATTACGCTTAAAATTGTTTTATAATTGCAAATGT--------------------------------------------------|
+
+Staple 113    |----------------------------------------GTCGGATTCTCCGTGGGAACAAACATCAGCTCATTTTTTAACCAATAGGAACGCCATCAAAAAT--------------------------------------------------------|
+Scaffold 113  |----------------------------------------CAGCCTAAGAGGCACCCTTGTTTGTAGTCGAGTAAAAAATTGGTTATCCTTGCGGTAGTTTTTA--------------------------------------------------------|
+
+Scaffold 114  |----------------------------------------GGGTTGTTACTCGCTCACATTTAATGTTGATGAAAGCTGGCTACAGGAAGGCCAGACGCGAATT--------------------------------------------------------|
+Staple 114    |----------------------------------------CCCAACAATGAGCGAGTGTAAATTACAACTACTTTCGACCGATGTCCTTCCGGTCTGCGCTTAA--------------------------------------------------------|
+
+Staple 115    |------------------------------CTCTACCTATGGAGCTCAACAGGGTGAGTTGTTATAATCTGCCATTCATATTAAGTACATTGGATGCACTGGAAGTGGT---------------------------------------------------|
+Scaffold 115  |------------------------------GAGATGGATACCTCGAGTTGTCCCACTCAACAATATTAGACGGTAAGTATAATTCATGTAACCTACGTGACCTTCACCA---------------------------------------------------|
+
+Scaffold 116  |------------------------------TTTAAATATTTGCTTATACAATCTTCCTGTTTTTAAATAGCTACCCTCTCCGGCATTAATTTATCAGCTAGAACGGTTGAATATCA--------------------------------------------|
+Staple 116    |----------------------------AAAAATTTATAAACGAATATGTTAGAAGGACAAAAATTTATCGATGGGAGAGGCCGTAATTAAATAGTCGATCTTGCCAACTTATAG---------------------------------------------|
+
+Staple 117    |----------------------------------------CCGGTTGATAATCAGAAAAGCCCCTTGAGAGATCTACAAAGGCTATCAGGTCATTGCCTGAGAG--------------------------------------------------------|
+Scaffold 117  |----------------------------------------GGCCAACTATTAGTCTTTTCGGGGAACTCTCTAGATGTTTCCGATAGTCCAGTAACGGACTCTC--------------------------------------------------------|
+
+Scaffold 118  |----------------------------------------GGTACATATGATTGACATGCTAGTTTTACGATTACCGTTCATCGATTCTCTTGTTTGCTCCAGA--------------------------------------------------------|
+Staple 118    |----------------------------------------CCATGTATACTAACTGTACGATCAAAATGCTAATGGCAAGTAGCTAAGAGAACAAACGAGGTCT--------------------------------------------------------|
+
+Staple 119    |------------------------------CCCTTCCTGAAGCGGTTACAGGAAATAAGTCTACTGTCACTAGTTGTGTTCTTTAAAACATATGCTATACATTAGGTTTCAGTA----------------------------------------------|
+Scaffold 119  |------------------------------GGGAAGGACTTCGCCAATGTCCTTTATTCAGATGACAGTGATCAACACAAGAAATTTTGTATACGATATGTAATCCAAAGTCAT----------------------------------------------|
+

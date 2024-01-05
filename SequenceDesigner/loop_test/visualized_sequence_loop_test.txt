@@ -1,0 +1,6 @@
+Scaffold 0    |A{GCT}TGGCACTGGCCGTCGTTTTA|
+Staple 0      |---------------------|
+
+Staple 1      |---------------------|
+Scaffold 1    |---------------------|
+

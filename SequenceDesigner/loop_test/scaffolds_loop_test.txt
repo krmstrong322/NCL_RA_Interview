@@ -1,0 +1,2 @@
+Start,End,Sequence,Length
+0[0],0[20],AGCTTGGCACTGGCCGTCGTTTTA,24
