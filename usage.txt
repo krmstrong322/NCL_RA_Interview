@@ -1,0 +1,1 @@
+python3 extract_dna.py <input.txt> <output.txt>
